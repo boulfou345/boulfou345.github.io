@@ -3,30 +3,22 @@
     <title>Omar Mashaal</title>
     <link href="https://omarhzmmashal.github.io/feed.xml" rel="self" />
     <link href="https://omarhzmmashal.github.io" />
-    <updated>2026-07-15T00:28:33-04:00</updated>
+    <updated>2026-07-15T00:30:07-04:00</updated>
     <author>
         <name>Omar Hazem Mashaal</name>
     </author>
     <id>https://omarhzmmashal.github.io</id>
 
     <entry>
-        <title>Test</title>
+        <title>TESTTT</title>
         <author>
             <name>Omar Hazem Mashaal</name>
         </author>
-        <link href="https://omarhzmmashal.github.io/test.html"/>
-        <id>https://omarhzmmashal.github.io/test.html</id>
+        <link href="https://omarhzmmashal.github.io/testtt.html"/>
+        <id>https://omarhzmmashal.github.io/testtt.html</id>
 
-        <updated>2026-07-14T23:41:45-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    What?
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>What?</p>
-            ]]>
-        </content>
+        <updated>2026-07-15T00:30:07-04:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>
